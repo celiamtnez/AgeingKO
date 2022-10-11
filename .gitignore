@@ -1,0 +1,12 @@
+data/*h5ad
+notebooks/figures/*pdf
+notebooks/figures/*pdf
+notebooks/*csv
+notebooks/*xlsx
+figures/*pdf
+figures/*png
+tables/*csv
+tables/*xls
+tables/*xlsx
+notebooks/.ipynb_checkpoints/*
+code/*gtf
