@@ -1,0 +1,1239 @@
+,Gene symbol,Task
+0,Hnf1a,Target Hnf4a
+1,Hnf1b,Target Hnf4a
+2,Nr1h3,Target Hnf4a
+3,Gabpa,Target Hnf4a
+4,Gabpb2,Target Hnf4a
+5,Atf4,Target Hnf4a
+6,Atf7,Target Hnf4a
+7,Sp2,Target Hnf4a
+8,Srebf2,Target Hnf4a
+9,Btf3,Target Hnf4a
+10,Hif1a,Target Hnf4a
+11,Nr3c2,Target Hnf4a
+12,Tcf19,Target Hnf4a
+13,Cnot2,Target Hnf4a
+14,Nr0b2,Target Hnf4a
+15,Nr5a2,Target Hnf4a
+16,Crebl2,Target Hnf4a
+17,Elf3,Target Hnf4a
+18,Pax8,Target Hnf4a
+19,Tef,Target Hnf4a
+20,Atf2,Target Hnf4a
+21,Alb,Target Hnf4a
+22,Ttr,Target Hnf4a
+23,Pck1,Target Hnf4a
+24,Pck2,Target Hnf4a
+25,Cyp7a1,Target Hnf4a
+26,Pklr,Target Hnf4a
+27,A2m,Target Hnf4a
+28,Rbp2,Target Hnf4a
+29,Otc,Target Hnf4a
+30,Acox1,Target Hnf4a
+31,Hsd17b4,Target Hnf4a
+32,Cyp2c23,Target Hnf4a
+33,Slc2a2,Target Hnf4a
+34,Aldob,Target Hnf4a
+35,Fabp1,Target Hnf4a
+36,Cyp2a4,Target Hnf4a
+37,Hmgcs2,Target Hnf4a
+38,Aldh3a1,Target Hnf4a
+39,Ogdh,Target Hnf4a
+40,Ucp2,Target Hnf4a
+41,Cyp3a16,Target Hnf4a
+42,Hpd,Target Hnf4a
+43,Afm,Target Hnf4a
+44,Cyp2e1,Target Hnf4a
+45,Aldob,Target Hnf4a
+46,Igfbp1,Target Hnf4a
+47,Hes6,Target Hnf4a
+48,Acot1,Target Hnf4a
+49,Cd36,Target Hnf4a
+50,Pparg,Target Hnf4a
+51,Apob,Target Hnf4a
+52,Fga,Target Cebpa
+53,F2,Target Cebpa
+54,Eif2s2,Target Cebpa
+55,Pck1,Target Cebpa
+56,Chac1,Target Cebpa
+57,E4f1,Target Cebpa
+58,Usp54,Target Cebpa
+59,Mapk14,Target Cebpa
+60,Egr1,Target Cebpa
+61,Itih1,Target Cebpa
+62,Trib1,Target Cebpa
+63,Acsl5,Target Cebpa
+64,Adm,Target Cebpa
+65,Tnfaip3,Target Cebpa
+66,Tgif1,Target Cebpa
+67,Trib1,Target Cebpa
+68,Igfbp1,Target Cebpa
+69,Foxo3,Target Cebpa
+70,Gata4,Target Cebpa
+71,Edc3,Target Cebpa
+72,Nr1h4,Target Cebpa
+73,Smad3,Target Cebpa
+74,Fmr1,Target Cebpa
+75,Prox1,Target Cebpa
+76,C8a,Target Cebpa
+77,Apoc1,Target Cebpa
+78,Apoe,Target Cebpa
+79,Tomm40,Target Cebpa
+80,Orm1,Target Cebpa
+81,Efhd2,Target Cebpa
+82,Tpst2,Target Cebpa
+83,Dusp1,Target Cebpa
+84,Cyp2b10,Target Cebpa
+85,Tat,Target Cebpa
+86,Hp,Target Cebpa
+87,Pparg,Target Cebpa
+88,Calu,Target Ctcf
+89,Suds3,Target Ctcf
+90,Fanci,Target Ctcf
+91,Eif4g1,Target Ctcf
+92,Pign,Target Ctcf
+93,Kirrel,Target Ctcf
+94,Ercc8,Target Ctcf
+95,Tnrc18,Target Ctcf
+96,Madd,Target Ctcf
+97,Fermt2,Target Ctcf
+98,Ext2,Target Ctcf
+99,Sertad3,Target Ctcf
+100,Unc13d,Target Ctcf
+101,Boll,Target Ctcf
+102,Stau1,Target Ctcf
+103,Inf2,Target Ctcf
+104,Atp8b2,Target Ctcf
+105,Urgcp,Target Ctcf
+106,Nnt,Target Ctcf
+107,Cbl,Target Ctcf
+108,Cdc42ep1,Target Ctcf
+109,BC048507,Target Ctcf
+110,Leng8,Target Ctcf
+111,Cbr1,Target Ctcf
+112,Cbx4,Target Ctcf
+113,Klf6,Target Ctcf
+114,Spryd4,Target Ctcf
+115,Rrm2,Target Ctcf
+116,Dgkq,Target Ctcf
+117,Ctbp1,Target Ctcf
+118,Adh7,Target Ctcf
+119,Asb4,Target Ctcf
+120,Ptprr,Target Ctcf
+121,Ccnd2,Target Ctcf
+122,Lrrc49,Target Ctcf
+123,Erp44,Target Ctcf
+124,Adra1a,Target Ctcf
+125,Ryr1,Target Ctcf
+126,Nfyc,Target Ctcf
+127,Nme8,Target Ctcf
+128,Epor,Target Ctcf
+129,Nup153,Target Ctcf
+130,Tmem167b,Target Ctcf
+131,Stac3,Target Ctcf
+132,Vgll4,Target Ctcf
+133,Ccdc62,Target Ctcf
+134,Wnk1,Target Ctcf
+135,Rasal1,Target Ctcf
+136,Tha1,Target Ctcf
+137,Entpd1,Target Ctcf
+138,Shroom1,Target Ctcf
+139,Trim28,Target Ctcf
+140,Magee1,Target Ctcf
+141,Stim2,Target Ctcf
+142,Vim,Target Ctcf
+143,Qdpr,Target Ctcf
+144,Pgbd5,Target Ctcf
+145,Mapkapk3,Target Ctcf
+146,Ipo8,Target Ctcf
+147,Lrp1,Target Ctcf
+148,Lpin1,Target Ctcf
+149,Vwf,Target Ctcf
+150,Ndufs2,Target Ctcf
+151,Dlat,Target Ctcf
+152,Wdr26,Target Ctcf
+153,Acaa2,Target Ctcf
+154,Rab3a,Target Ctcf
+155,Gne,Target Ctcf
+156,Fgfr2,Target Ctcf
+157,Sec31a,Target Ctcf
+158,Pcyox1,Target Ctcf
+159,Rbm14,Target Ctcf
+160,Apeh,Target Ctcf
+161,Morf4l1,Target Ctcf
+162,Ap1m2,Target Ctcf
+163,Ppm1g,Target Ctcf
+164,Nop10,Target Ctcf
+165,Mrpl24,Target Ctcf
+166,Nasp,Target Ctcf
+167,Thra,Target Ctcf
+168,Apbb2,Target Ctcf
+169,H2-Ab1,Target Ctcf
+170,Necap2,Target Ctcf
+171,Plekhb1,Target Ctcf
+172,Pla2g6,Target Ctcf
+173,Gpr107,Target Ctcf
+174,Mpp2,Target Ctcf
+175,Commd1,Target Ctcf
+176,Mink1,Target Ctcf
+177,Echdc2,Target Ctcf
+178,Fgf18,Target Ctcf
+179,Thbd,Target Ctcf
+180,Zfp251,Target Ctcf
+181,Zfp410,Target Ctcf
+182,Zfp219,Target Ctcf
+183,Rnf130,Target Ctcf
+184,Pitx2,Target Ctcf
+185,D2hgdh,Target Ctcf
+186,Zdhhc1,Target Ctcf
+187,Socs1,Target Ctcf
+188,Fam214b,Target Ctcf
+189,Atp11c,Target Ctcf
+190,Aldh1a7,Target Ctcf
+191,Kif19a,Target Ctcf
+192,Phb,Target Ctcf
+193,Erap1,Target Ctcf
+194,Tbc1d7,Target Ctcf
+195,Atp6v1b1,Target Ctcf
+196,Gata3,Target Ctcf
+197,Pom121,Target Ctcf
+198,Magohb,Target Ctcf
+199,Kifc3,Target Ctcf
+200,Cdc14a,Target Ctcf
+201,Pdk2,Target Ctcf
+202,Cftr,Target Ctcf
+203,Pdpk1,Target Ctcf
+204,Chd3,Target Ctcf
+205,Isoc2a,Target Ctcf
+206,Ccdc58,Target Ctcf
+207,Pip5k1a,Target Ctcf
+208,Mthfs,Target Ctcf
+209,Hist1h2bj,Target Ctcf
+210,Pink1,Target Ctcf
+211,Sin3a,Target Ctcf
+212,Vav2,Target Ctcf
+213,Aftph,Target Ctcf
+214,St3gal5,Target Ctcf
+215,Thrap3,Target Ctcf
+216,Zfp473,Target Ctcf
+217,Eogt,Target Ctcf
+218,Aars2,Target Ctcf
+219,Tmem63b,Target Ctcf
+220,Aars,Target Ctcf
+221,Fzd5,Target Ctcf
+222,Ift122,Target Ctcf
+223,Gimap3,Target Ctcf
+224,Igfbp3,Target Ctcf
+225,Psmd9,Target Ctcf
+226,Kcng3,Target Ctcf
+227,Ror1,Target Ctcf
+228,Sorbs1,Target Ctcf
+229,Zswim6,Target Ctcf
+230,Hic1,Target Ctcf
+231,Emc9,Target Ctcf
+232,Smok3b,Target Ctcf
+233,Myl12b,Target Ctcf
+234,Tpst1,Target Ctcf
+235,Gnpat,Target Ctcf
+236,Phc2,Target Ctcf
+237,Rnf169,Target Ctcf
+238,Sbf1,Target Ctcf
+239,Osbpl5,Target Ctcf
+240,Setbp1,Target Ctcf
+241,Cltb,Target Ctcf
+242,Nexn,Target Ctcf
+243,Marcksl1,Target Ctcf
+244,Rgmb,Target Ctcf
+245,Acacb,Target Ctcf
+246,Fam19a1,Target Ctcf
+247,Elovl6,Target Ctcf
+248,Rdh5,Target Ctcf
+249,Gnb3,Target Ctcf
+250,Gng10,Target Ctcf
+251,Rab31,Target Ctcf
+252,Mllt1,Target Ctcf
+253,Tpm1,Target Ctcf
+254,Cecr2,Target Ctcf
+255,Clip4,Target Ctcf
+256,Hnrnpc,Target Ctcf
+257,Stom,Target Ctcf
+258,Aff4,Target Ctcf
+259,Osbpl9,Target Ctcf
+260,Pnrc1,Target Ctcf
+261,Trpv4,Target Ctcf
+262,Fhdc1,Target Ctcf
+263,Gls,Target Ctcf
+264,Rdh11,Target Ctcf
+265,Fermt3,Target Ctcf
+266,Cblc,Target Ctcf
+267,Nutf2,Target Ctcf
+268,Arhgef10l,Target Ctcf
+269,Lrch1,Target Ctcf
+270,Hip1,Target Ctcf
+271,Nrgn,Target Ctcf
+272,Lrrk1,Target Ctcf
+273,Atg7,Target Ctcf
+274,Tub,Target Ctcf
+275,Iqce,Target Ctcf
+276,Mdm2,Target Ctcf
+277,Kctd17,Target Ctcf
+278,Bcar3,Target Ctcf
+279,Tbl3,Target Ctcf
+280,Hpd,Target Ctcf
+281,Iqub,Target Ctcf
+282,Mcat,Target Ctcf
+283,Ppp3r1,Target Ctcf
+284,Nxn,Target Ctcf
+285,Papd5,Target Ctcf
+286,Rnf144a,Target Ctcf
+287,Bub1,Target Ctcf
+288,Gfi1b,Target Ctcf
+289,Rapgef3,Target Ctcf
+290,Birc6,Target Ctcf
+291,Abcd2,Ageing up regulated
+292,Abhd2,Ageing up regulated
+293,Acpp,Ageing up regulated
+294,Actg1,Ageing up regulated
+295,Akna,Ageing up regulated
+296,Aldh1b1,Ageing up regulated
+297,Alpk1,Ageing up regulated
+298,Ang,Ageing up regulated
+299,Ano6,Ageing up regulated
+300,Anxa5,Ageing up regulated
+301,Apba2,Ageing up regulated
+302,Apbb1ip,Ageing up regulated
+303,Apcs,Ageing up regulated
+304,Apol9a,Ageing up regulated
+305,Apol9b,Ageing up regulated
+306,Asb2,Ageing up regulated
+307,Atp11a,Ageing up regulated
+308,Atp8a1,Ageing up regulated
+309,AW112010,Ageing up regulated
+310,Axl,Ageing up regulated
+311,B2m,Ageing up regulated
+312,Basp1,Ageing up regulated
+313,Bgn,Ageing up regulated
+314,Bst1,Ageing up regulated
+315,Bst2,Ageing up regulated
+316,Btg2,Ageing up regulated
+317,C130026I21Rik,Ageing up regulated
+318,C1qa,Ageing up regulated
+319,C1qc,Ageing up regulated
+320,C3ar1,Ageing up regulated
+321,C4b,Ageing up regulated
+322,Ccl2,Ageing up regulated
+323,Ccl5,Ageing up regulated
+324,Ccl6,Ageing up regulated
+325,Ccr2,Ageing up regulated
+326,Cd2,Ageing up regulated
+327,Cd36,Ageing up regulated
+328,Cd44,Ageing up regulated
+329,Cd53,Ageing up regulated
+330,Cd68,Ageing up regulated
+331,Cd74,Ageing up regulated
+332,Cd83,Ageing up regulated
+333,Cdh19,Ageing up regulated
+334,Cdhr5,Ageing up regulated
+335,Cdkn2a,Ageing up regulated
+336,Chrm3,Ageing up regulated
+337,Clca1,Ageing up regulated
+338,Clec12a,Ageing up regulated
+339,Clec7a,Ageing up regulated
+340,Cmpk2,Ageing up regulated
+341,Coro1a,Ageing up regulated
+342,Cotl1,Ageing up regulated
+343,Cp,Ageing up regulated
+344,Csf1,Ageing up regulated
+345,Csf1r,Ageing up regulated
+346,Csf3r,Ageing up regulated
+347,Ctbs,Ageing up regulated
+348,Ctgf,Ageing up regulated
+349,Ctsb,Ageing up regulated
+350,Ctss,Ageing up regulated
+351,Cxcl1,Ageing up regulated
+352,Cxcl10,Ageing up regulated
+353,Cxcl13,Ageing up regulated
+354,Cxcl9,Ageing up regulated
+355,Cybb,Ageing up regulated
+356,Ddx58,Ageing up regulated
+357,Ddx60,Ageing up regulated
+358,Dhcr24,Ageing up regulated
+359,Dhx58,Ageing up regulated
+360,Dntt,Ageing up regulated
+361,Dock10,Ageing up regulated
+362,Dock2,Ageing up regulated
+363,Dopey2,Ageing up regulated
+364,Dpy19l3,Ageing up regulated
+365,E2f2,Ageing up regulated
+366,Eif2ak2,Ageing up regulated
+367,Emp2,Ageing up regulated
+368,Entpd1,Ageing up regulated
+369,Epsti1,Ageing up regulated
+370,Esm1,Ageing up regulated
+371,Esr1,Ageing up regulated
+372,Evi2b,Ageing up regulated
+373,Evl,Ageing up regulated
+374,Fam105a,Ageing up regulated
+375,Fgl1,Ageing up regulated
+376,Filip1l,Ageing up regulated
+377,Flna,Ageing up regulated
+378,Fmn1,Ageing up regulated
+379,Fmnl1,Ageing up regulated
+380,Fxyd5,Ageing up regulated
+381,Fyb,Ageing up regulated
+382,Galns,Ageing up regulated
+383,Gbp10,Ageing up regulated
+384,Gbp2,Ageing up regulated
+385,Gbp3,Ageing up regulated
+386,Gbp6,Ageing up regulated
+387,Gbp7,Ageing up regulated
+388,Gm10639,Ageing up regulated
+389,Gm12250,Ageing up regulated
+390,Gm5148,Ageing up regulated
+391,Gm5424,Ageing up regulated
+392,Gngt2,Ageing up regulated
+393,Gpx3,Ageing up regulated
+394,Gsta1,Ageing up regulated
+395,H2-Aa,Ageing up regulated
+396,H2-D1,Ageing up regulated
+397,H2-Eb1,Ageing up regulated
+398,H2-K1,Ageing up regulated
+399,H2-M2,Ageing up regulated
+400,H2-Q1,Ageing up regulated
+401,H2-Q6,Ageing up regulated
+402,H2-T23,Ageing up regulated
+403,Heg1,Ageing up regulated
+404,Herc6,Ageing up regulated
+405,Hk2,Ageing up regulated
+406,Hmox1,Ageing up regulated
+407,Hp,Ageing up regulated
+408,Hpx,Ageing up regulated
+409,Icam1,Ageing up regulated
+410,Idh2,Ageing up regulated
+411,Ifi204,Ageing up regulated
+412,Ifi27l2b,Ageing up regulated
+413,Ifi30,Ageing up regulated
+414,Ifi44,Ageing up regulated
+415,Ifi47,Ageing up regulated
+416,Ifih1,Ageing up regulated
+417,Ifit3,Ageing up regulated
+418,Ifitm3,Ageing up regulated
+419,Igfbp3,Ageing up regulated
+420,Igsf6,Ageing up regulated
+421,Igtp,Ageing up regulated
+422,Iigp1,Ageing up regulated
+423,Ikbke,Ageing up regulated
+424,Il10,Ageing up regulated
+425,Il10ra,Ageing up regulated
+426,Il13ra1,Ageing up regulated
+427,Il1b,Ageing up regulated
+428,Il1rn,Ageing up regulated
+429,Iqgap1,Ageing up regulated
+430,Irf1,Ageing up regulated
+431,Irf7,Ageing up regulated
+432,Irf9,Ageing up regulated
+433,Irgm1,Ageing up regulated
+434,Irgm2,Ageing up regulated
+435,Itga4,Ageing up regulated
+436,Itgal,Ageing up regulated
+437,Itgam,Ageing up regulated
+438,Itgax,Ageing up regulated
+439,Itgb2,Ageing up regulated
+440,Itih3,Ageing up regulated
+441,Itih4,Ageing up regulated
+442,Jak3,Ageing up regulated
+443,Kctd12,Ageing up regulated
+444,Kif21b,Ageing up regulated
+445,Kng1,Ageing up regulated
+446,Krt18,Ageing up regulated
+447,Lair1,Ageing up regulated
+448,Laptm5,Ageing up regulated
+449,Lbh,Ageing up regulated
+450,Lbp,Ageing up regulated
+451,Lcn2,Ageing up regulated
+452,Lcp2,Ageing up regulated
+453,Lgals3bp,Ageing up regulated
+454,Lgmn,Ageing up regulated
+455,Lmnb1,Ageing up regulated
+456,Lrg1,Ageing up regulated
+457,Lrrc25,Ageing up regulated
+458,Lrtm1,Ageing up regulated
+459,Lsp1,Ageing up regulated
+460,Ly6e,Ageing up regulated
+461,Ly9,Ageing up regulated
+462,Lyz2,Ageing up regulated
+463,Map3k1,Ageing up regulated
+464,Marcks,Ageing up regulated
+465,Mki67,Ageing up regulated
+466,Mmd2,Ageing up regulated
+467,Mmp14,Ageing up regulated
+468,Mndal,Ageing up regulated
+469,Mpeg1,Ageing up regulated
+470,Msn,Ageing up regulated
+471,Mx1,Ageing up regulated
+472,Mx2,Ageing up regulated
+473,Myo1f,Ageing up regulated
+474,Myo1g,Ageing up regulated
+475,Myo5a,Ageing up regulated
+476,Myof,Ageing up regulated
+477,Ncf1,Ageing up regulated
+478,Nebl,Ageing up regulated
+479,Nfkb2,Ageing up regulated
+480,Nlrc5,Ageing up regulated
+481,Nnmt,Ageing up regulated
+482,Ntrk2,Ageing up regulated
+483,Oas1a,Ageing up regulated
+484,Oas1g,Ageing up regulated
+485,Oasl1,Ageing up regulated
+486,Oasl2,Ageing up regulated
+487,Orm2,Ageing up regulated
+488,Parp12,Ageing up regulated
+489,Parp14,Ageing up regulated
+490,Parp9,Ageing up regulated
+491,Pdgfrb,Ageing up regulated
+492,Pik3cd,Ageing up regulated
+493,Pik3r5,Ageing up regulated
+494,Pla2g4a,Ageing up regulated
+495,Plac8,Ageing up regulated
+496,Plek,Ageing up regulated
+497,Prex1,Ageing up regulated
+498,Prg4,Ageing up regulated
+499,Psmb8,Ageing up regulated
+500,Ptprc,Ageing up regulated
+501,Rasa4,Ageing up regulated
+502,Rassf2,Ageing up regulated
+503,Rassf4,Ageing up regulated
+504,Rbm3,Ageing up regulated
+505,Rbp1,Ageing up regulated
+506,Rhbdf2,Ageing up regulated
+507,Rsad2,Ageing up regulated
+508,Rtn4,Ageing up regulated
+509,Rtp4,Ageing up regulated
+510,S100a11,Ageing up regulated
+511,Saa1,Ageing up regulated
+512,Saa2,Ageing up regulated
+513,Samd9l,Ageing up regulated
+514,Samhd1,Ageing up regulated
+515,Sat1,Ageing up regulated
+516,Sdc3,Ageing up regulated
+517,Sema4d,Ageing up regulated
+518,Serpina3g,Ageing up regulated
+519,Serpina3n,Ageing up regulated
+520,Serpina7,Ageing up regulated
+521,Serping1,Ageing up regulated
+522,Sirpa,Ageing up regulated
+523,Slc11a1,Ageing up regulated
+524,Slc16a5,Ageing up regulated
+525,Slc22a18,Ageing up regulated
+526,Slc3a1,Ageing up regulated
+527,Slc8a1,Ageing up regulated
+528,Slfn5,Ageing up regulated
+529,Slfn8,Ageing up regulated
+530,Slfn9,Ageing up regulated
+531,Soat1,Ageing up regulated
+532,Sp110,Ageing up regulated
+533,Stat1,Ageing up regulated
+534,Stat2,Ageing up regulated
+535,Stat3,Ageing up regulated
+536,Steap4,Ageing up regulated
+537,Stx3,Ageing up regulated
+538,Sult1a1,Ageing up regulated
+539,Sytl5,Ageing up regulated
+540,Tap1,Ageing up regulated
+541,Tapbp,Ageing up regulated
+542,Tcirg1,Ageing up regulated
+543,Tgfbi,Ageing up regulated
+544,Tgm2,Ageing up regulated
+545,Tgtp2,Ageing up regulated
+546,Tlr1,Ageing up regulated
+547,Tmem176a,Ageing up regulated
+548,Tmem176b,Ageing up regulated
+549,Tmem26,Ageing up regulated
+550,Tmsb4x,Ageing up regulated
+551,Tnf,Ageing up regulated
+552,Top2a,Ageing up regulated
+553,Tor1aip1,Ageing up regulated
+554,Trim12a,Ageing up regulated
+555,Trim30a,Ageing up regulated
+556,Trim30d,Ageing up regulated
+557,Trim34a,Ageing up regulated
+558,Ttn,Ageing up regulated
+559,Uba7,Ageing up regulated
+560,Ubc,Ageing up regulated
+561,Ubd,Ageing up regulated
+562,Ube2l6,Ageing up regulated
+563,Ucp2,Ageing up regulated
+564,Unc93b1,Ageing up regulated
+565,Usp18,Ageing up regulated
+566,Vcam1,Ageing up regulated
+567,Vim,Ageing up regulated
+568,Vsig4,Ageing up regulated
+569,Wdfy4,Ageing up regulated
+570,Wipf1,Ageing up regulated
+571,Xaf1,Ageing up regulated
+572,Zap70,Ageing up regulated
+573,Zbp1,Ageing up regulated
+574,Zmynd15,Ageing up regulated
+575,Aadac,Ageing down regulated
+576,Abca8a,Ageing down regulated
+577,Abcb11,Ageing down regulated
+578,Abcb4,Ageing down regulated
+579,Abcd3,Ageing down regulated
+580,Abcg2,Ageing down regulated
+581,Abhd5,Ageing down regulated
+582,Acadvl,Ageing down regulated
+583,Acbd5,Ageing down regulated
+584,Acot12,Ageing down regulated
+585,Acsl1,Ageing down regulated
+586,Acsm3,Ageing down regulated
+587,Adh6-ps1,Ageing down regulated
+588,Akr1c13,Ageing down regulated
+589,Akr1c14,Ageing down regulated
+590,Akr1c19,Ageing down regulated
+591,Akr1c6,Ageing down regulated
+592,Angptl2,Ageing down regulated
+593,Aox3,Ageing down regulated
+594,Apoa2,Ageing down regulated
+595,Atp13a3,Ageing down regulated
+596,Atp5h,Ageing down regulated
+597,Bcl2l2,Ageing down regulated
+598,Car14,Ageing down regulated
+599,Ces1c,Ageing down regulated
+600,Ces2c,Ageing down regulated
+601,Ces2d-ps,Ageing down regulated
+602,Ces3b,Ageing down regulated
+603,Chuk,Ageing down regulated
+604,Cmtm6,Ageing down regulated
+605,Creb3l3,Ageing down regulated
+606,Csad,Ageing down regulated
+607,Cyp1a1,Ageing down regulated
+608,Cyp1a2,Ageing down regulated
+609,Cyp2c69,Ageing down regulated
+610,Cyp2d11,Ageing down regulated
+611,Cyp2d40,Ageing down regulated
+612,Cyp2d9,Ageing down regulated
+613,Cyp2f2,Ageing down regulated
+614,Cyp4v3,Ageing down regulated
+615,Ddx3y,Ageing down regulated
+616,Dio1,Ageing down regulated
+617,Fabp1,Ageing down regulated
+618,Fam126b,Ageing down regulated
+619,Fam35a,Ageing down regulated
+620,Fgf1,Ageing down regulated
+621,Gjb1,Ageing down regulated
+622,Gm4952,Ageing down regulated
+623,Gspt1,Ageing down regulated
+624,Gstp1,Ageing down regulated
+625,Hao1,Ageing down regulated
+626,Hectd1,Ageing down regulated
+627,Hsd11b1,Ageing down regulated
+628,Hsd17b2,Ageing down regulated
+629,Igfbp2,Ageing down regulated
+630,Inmt,Ageing down regulated
+631,Itih5,Ageing down regulated
+632,Klhl2,Ageing down regulated
+633,Kpna1,Ageing down regulated
+634,Larp4b,Ageing down regulated
+635,Lifr,Ageing down regulated
+636,Lmbrd2,Ageing down regulated
+637,Mcm10,Ageing down regulated
+638,Med12l,Ageing down regulated
+639,Mgll,Ageing down regulated
+640,Mphosph10,Ageing down regulated
+641,Mup11,Ageing down regulated
+642,Mup12,Ageing down regulated
+643,Mup13,Ageing down regulated
+644,Mup16,Ageing down regulated
+645,Mup21,Ageing down regulated
+646,Mup4,Ageing down regulated
+647,Mup6,Ageing down regulated
+648,Mup9,Ageing down regulated
+649,Naca,Ageing down regulated
+650,Nampt,Ageing down regulated
+651,Nmnat1,Ageing down regulated
+652,Nnmt,Ageing down regulated
+653,Nrp1,Ageing down regulated
+654,Nucks1,Ageing down regulated
+655,Nudt7,Ageing down regulated
+656,Parp3,Ageing down regulated
+657,Parp6,Ageing down regulated
+658,Ppm1g,Ageing down regulated
+659,Prkaa2,Ageing down regulated
+660,Prpf6,Ageing down regulated
+661,Rapgef4,Ageing down regulated
+662,Rasal2,Ageing down regulated
+663,Rpl35a,Ageing down regulated
+664,Selenbp2,Ageing down regulated
+665,Sirt3,Ageing down regulated
+666,Sirt4,Ageing down regulated
+667,Sirt5,Ageing down regulated
+668,Slc17a2,Ageing down regulated
+669,Slc22a28,Ageing down regulated
+670,Slc27a2,Ageing down regulated
+671,Sort1,Ageing down regulated
+672,Sucla2,Ageing down regulated
+673,Sulf2,Ageing down regulated
+674,Taf2,Ageing down regulated
+675,Tmf1,Ageing down regulated
+676,Tsku,Ageing down regulated
+677,Ugt2b35,Ageing down regulated
+678,Ugt2b36,Ageing down regulated
+679,Ugt2b37,Ageing down regulated
+680,Ugt2b5,Ageing down regulated
+681,Vps37a,Ageing down regulated
+682,Wnk4,Ageing down regulated
+683,Abi3,Senescence
+684,Abl1,Senescence
+685,Akt3,Senescence
+686,Aldh1a3,Senescence
+687,Arg2,Senescence
+688,Arntl,Senescence
+689,B2m,Senescence
+690,Bcl2l12,Senescence
+691,Bcl6,Senescence
+692,Bmpr1a,Senescence
+693,Calr,Senescence
+694,Cav1,Senescence
+695,Ccnd1,Senescence
+696,Cd44,Senescence
+697,Cdk6,Senescence
+698,Cdkn1a,Senescence
+699,Cdkn1c,Senescence
+700,Cdkn2a,Senescence
+701,Cdkn2b,Senescence
+702,Cdkn2d,Senescence
+703,Cited2,Senescence
+704,Col1a2,Senescence
+705,Creg1,Senescence
+706,Cxcl14,Senescence
+707,Cyp1b1,Senescence
+708,Eef1e1,Senescence
+709,Esm1,Senescence
+710,F3,Senescence
+711,Fbxo5,Senescence
+712,Filip1l,Senescence
+713,H2-M3,Senescence
+714,Hmga2,Senescence
+715,Hps5,Senescence
+716,Hras,Senescence
+717,Hspa2,Senescence
+718,Htatip2,Senescence
+719,Icmt,Senescence
+720,Id2,Senescence
+721,Ifng,Senescence
+722,Igfbp2,Senescence
+723,Igfbp4,Senescence
+724,Igfbp6,Senescence
+725,Igsf3,Senescence
+726,Ing1,Senescence
+727,Ing2,Senescence
+728,Irf5,Senescence
+729,Irf7,Senescence
+730,Isg15,Senescence
+731,Kat6a,Senescence
+732,Kras,Senescence
+733,Map1lc3b,Senescence
+734,Map2k1,Senescence
+735,Map2k3,Senescence
+736,Map3k3,Senescence
+737,Mapk14,Senescence
+738,Mapkapk5,Senescence
+739,Mdm2,Senescence
+740,Nampt,Senescence
+741,Ndn,Senescence
+742,Nek4,Senescence
+743,Nme2,Senescence
+744,Nrg1,Senescence
+745,Nsmce2,Senescence
+746,Nuak1,Senescence
+747,Opa1,Senescence
+748,Optn,Senescence
+749,Pawr,Senescence
+750,Pla2r1,Senescence
+751,Plk2,Senescence
+752,Pml,Senescence
+753,Pnpt1,Senescence
+754,Prkcd,Senescence
+755,Prkdc,Senescence
+756,Prmt6,Senescence
+757,Rab13,Senescence
+758,Rab31,Senescence
+759,Rab5b,Senescence
+760,Rac1,Senescence
+761,Rbl1,Senescence
+762,Rbl2,Senescence
+763,Rgl2,Senescence
+764,Rhob,Senescence
+765,Rras,Senescence
+766,Rsl1d1,Senescence
+767,S100a11,Senescence
+768,Serpinb2,Senescence
+769,Sirt1,Senescence
+770,Slc30a10,Senescence
+771,Smc5,Senescence
+772,Smc6,Senescence
+773,Smpd1,Senescence
+774,Smurf2,Senescence
+775,Sod1,Senescence
+776,Sparc,Senescence
+777,Spi1,Senescence
+778,Srf,Senescence
+779,Stat1,Senescence
+780,Suv39h1,Senescence
+781,Tbx2,Senescence
+782,Tbx3,Senescence
+783,Terf2,Senescence
+784,Tert,Senescence
+785,Tfap2a,Senescence
+786,Thbs1,Senescence
+787,Trp53,Senescence
+788,Trp63,Senescence
+789,Twist1,Senescence
+790,Vash1,Senescence
+791,Vim,Senescence
+792,Wnt16,Senescence
+793,Ybx1,Senescence
+794,Ypel3,Senescence
+795,Zfp277,Senescence
+796,Zkscan3,Senescence
+797,Zmpste24,Senescence
+798,Vegfa,mouse sasp
+799,Tnfrsf11b,mouse sasp
+800,Mif,mouse sasp
+801,Il7,mouse sasp
+802,Il6st,mouse sasp
+803,Il6ra,mouse sasp
+804,Il5ra,mouse sasp
+805,Il4,mouse sasp
+806,Il2rg,mouse sasp
+807,Il2rb,mouse sasp
+808,Il1rn,mouse sasp
+809,Il1r1,mouse sasp
+810,Il1b,mouse sasp
+811,Il1a,mouse sasp
+812,Il11,mouse sasp
+813,Il10rb,mouse sasp
+814,Il10ra,mouse sasp
+815,Cxcr5,mouse sasp
+816,Cxcr3,mouse sasp
+817,Cxcr2,mouse sasp
+818,Cxcl9,mouse sasp
+819,Cxcl13,mouse sasp
+820,Cxcl12,mouse sasp
+821,Cxcl11,mouse sasp
+822,Cxcl10,mouse sasp
+823,Cxcl1,mouse sasp
+824,Cx3cl1,mouse sasp
+825,Csf1,mouse sasp
+826,Ccr6,mouse sasp
+827,Ccr5,mouse sasp
+828,Ccr4,mouse sasp
+829,Ccr3,mouse sasp
+830,Ccr2,mouse sasp
+831,Ccl9,mouse sasp
+832,Ccl7,mouse sasp
+833,Ccl6,mouse sasp
+834,Ccl5,mouse sasp
+835,Ccl4,mouse sasp
+836,Ccl24,mouse sasp
+837,Ccl2,mouse sasp
+838,Ccl1,mouse sasp
+839,Nfkb1,mouse sasp
+840,Rela,mouse sasp
+841,Mtor,mouse sasp
+842,AA467197,human sasp
+843,P2ry6,human sasp
+844,Nfkbiz,human sasp
+845,Lrg1,human sasp
+846,Cxcl1,human sasp
+847,Zc3h12a,human sasp
+848,Ebi3,human sasp
+849,Lst1,human sasp
+850,Il6,human sasp
+851,Lcn2,human sasp
+852,Mchr1,human sasp
+853,Sod2,human sasp
+854,Olfm1,human sasp
+855,Slc7a2,human sasp
+856,Map3k8,human sasp
+857,Neurl3,human sasp
+858,Tnip3,human sasp
+859,Cebpd,human sasp
+860,Pou2f2,human sasp
+861,Sat1,human sasp
+862,Myo1b,human sasp
+863,Adamts9,human sasp
+864,Cxcl2,human sasp
+865,Rnd1,human sasp
+866,Cd200,human sasp
+867,Ripk2,human sasp
+868,C3,human sasp
+869,C1ra,human sasp
+870,Pdlim4,human sasp
+871,Nampt,human sasp
+872,Sp6,human sasp
+873,F3,human sasp
+874,Tnfaip2,human sasp
+875,Papln,human sasp
+876,Slc22a4,human sasp
+877,Wtap,human sasp
+878,Pcdhgc3,human sasp
+879,Col16a1,human sasp
+880,Ctss,human sasp
+881,Ccl2,human sasp
+882,Stum,human sasp
+883,Slc39a14,human sasp
+884,Tnip1,human sasp
+885,Gbp5,human sasp
+886,Tnfrsf11b,human sasp
+887,Spocd1,human sasp
+888,Pla1a,human sasp
+889,Vegfc,human sasp
+890,Dse,human sasp
+891,Plpp3,human sasp
+892,Adamts4,human sasp
+893,Irak3,human sasp
+894,Ptk2b,human sasp
+895,Cxcl3,human sasp
+896,Parp8,human sasp
+897,Ccl7,human sasp
+898,Tlr2,human sasp
+899,Sdc4,human sasp
+900,Tacr1,human sasp
+901,St5,human sasp
+902,Sgpp2,human sasp
+903,Nfkbia,human sasp
+904,Syt9,human sasp
+905,Has3,human sasp
+906,Cpxm1,human sasp
+907,Tnfaip3,human sasp
+908,Cab39,human sasp
+909,Mt2,human sasp
+910,Tnc,human sasp
+911,Pim2,human sasp
+912,Cpd,human sasp
+913,Ier3,human sasp
+914,Enox1,human sasp
+915,Tgfb3,human sasp
+916,Cbln2,human sasp
+917,Bcl6,human sasp
+918,Socs3,human sasp
+919,Icam1,human sasp
+920,Mt1,human sasp
+921,Steap3,human sasp
+922,Cyp3a11,human sasp
+923,Il7r,human sasp
+924,Serpind1,human sasp
+925,Ikbke,human sasp
+926,Htr7,human sasp
+927,Nfkb1,human sasp
+928,Kynu,human sasp
+929,Gch1,human sasp
+930,P4ha2,human sasp
+931,Noct,human sasp
+932,Tnfaip6,human sasp
+933,C2cd4b,human sasp
+934,Osgin2,human sasp
+935,Sele,human sasp
+936,Nod2,human sasp
+937,Atp13a3,human sasp
+938,Cfb,human sasp
+939,Sell,human sasp
+940,Ttc39c,human sasp
+941,Tcim,human sasp
+942,Gfpt2,human sasp
+943,Rcan1,human sasp
+944,Socs1,human sasp
+945,Serpine1,human sasp
+946,Lrig3,human sasp
+947,Cebpb,human sasp
+948,Jag1,human sasp
+949,Slc11a2,human sasp
+950,Slc12a2,human sasp
+951,Irf8,human sasp
+952,S100a3,human sasp
+953,Gk,human sasp
+954,Isg20,human sasp
+955,Apod,human sasp
+956,F2rl3,human sasp
+957,Msc,human sasp
+958,Nptx2,human sasp
+959,Trib1,human sasp
+960,Elf3,human sasp
+961,Il18r1,human sasp
+962,Sbno2,human sasp
+963,Mfsd2a,human sasp
+964,Ifi30,human sasp
+965,Ugcg,human sasp
+966,Cldn14,human sasp
+967,Hivep2,human sasp
+968,Kif21b,human sasp
+969,Pitx2,human sasp
+970,Colgalt1,human sasp
+971,Pcdh12,human sasp
+972,Lurap1l,human sasp
+973,Dusp16,human sasp
+974,Rac2,human sasp
+975,Nfkbid,human sasp
+976,Il1b,human sasp
+977,Med24,human sasp
+978,Slc13a3,human sasp
+979,Fam126a,human sasp
+980,Chst5,human sasp
+981,Pcdhga12,human sasp
+982,Errfi1,human sasp
+983,Il4i1,human sasp
+984,Akip1,human sasp
+985,Tnfaip8,human sasp
+986,Map3k5,human sasp
+987,Sema7a,human sasp
+988,Il12rb1,human sasp
+989,Cp,human sasp
+990,Ctsh,human sasp
+991,Fosl2,human sasp
+992,Jak3,human sasp
+993,Cited4,human sasp
+994,Olah,human sasp
+995,Alkal2,human sasp
+996,Vstm4,human sasp
+997,Relt,human sasp
+998,Tbxas1,human sasp
+999,Fth1,human sasp
+1000,Cbr3,human sasp
+1001,Plaur,human sasp
+1002,Kcnn2,human sasp
+1003,Best1,human sasp
+1004,Slco4a1,human sasp
+1005,Vnn1,human sasp
+1006,Trim36,human sasp
+1007,Saa1,human sasp
+1008,Slc25a37,human sasp
+1009,Nnmt,human sasp
+1010,Grid1,human sasp
+1011,Rab31,human sasp
+1012,Insr,human sasp
+1013,Il1rap,human sasp
+1014,Nabp1,human sasp
+1015,Gbp2,human sasp
+1016,St6gal1,human sasp
+1017,Lacc1,human sasp
+1018,Psma6,human sasp
+1019,Steap1,human sasp
+1020,Ppargc1a,human sasp
+1021,Aloxe3,human sasp
+1022,Rin2,human sasp
+1023,Serpina3n,human sasp
+1024,Mtmr11,human sasp
+1025,Mtmr7,human sasp
+1026,Aff3,human sasp
+1027,Hnmt,human sasp
+1028,B3gnt7,human sasp
+1029,Bcl2,human sasp
+1030,Bmp2,human sasp
+1031,Cd69,human sasp
+1032,Tnfrsf19,human sasp
+1033,Mapkbp1,human sasp
+1034,Gpr37l1,human sasp
+1035,Dnah11,human sasp
+1036,Ell2,human sasp
+1037,Pxdn,human sasp
+1038,Gria1,human sasp
+1039,Kremen1,human sasp
+1040,Cyb5r2,human sasp
+1041,Xkr9,human sasp
+1042,Tlr7,human sasp
+1043,Traf3ip2,human sasp
+1044,Lpxn,human sasp
+1045,Nbn,human sasp
+1046,Arsj,human sasp
+1047,Smad3,human sasp
+1048,Irak2,human sasp
+1049,Gldc,human sasp
+1050,Fndc3b,human sasp
+1051,Prr16,human sasp
+1052,Matn3,human sasp
+1053,Kcne3,human sasp
+1054,Rasd1,human sasp
+1055,Cx3cl1,human sasp
+1056,Cdc42ep2,human sasp
+1057,Ctsk,human sasp
+1058,Pipox,human sasp
+1059,Pdzk1ip1,human sasp
+1060,Fgfr1op,human sasp
+1061,Junb,human sasp
+1062,Limk2,human sasp
+1063,Ninl,human sasp
+1064,Lamb3,human sasp
+1065,B4galt1,human sasp
+1066,Zc3h12c,human sasp
+1067,Tpk1,human sasp
+1068,Hif1a,human sasp
+1069,Yipf5,human sasp
+1070,Otub2,human sasp
+1071,P2rx4,human sasp
+1072,Pstpip2,human sasp
+1073,Slc4a7,human sasp
+1074,Pcdhgc5,human sasp
+1075,Pappa,human sasp
+1076,Cd80,human sasp
+1077,Arrdc3,human sasp
+1078,Steap2,human sasp
+1079,Uxs1,human sasp
+1080,Syn1,human sasp
+1081,Rsad1,human sasp
+1082,Tnfsf15,human sasp
+1083,Icam5,human sasp
+1084,Hk2,human sasp
+1085,Ccr4,human sasp
+1086,Adamts3,human sasp
+1087,Lypd6,human sasp
+1088,Cthrc1,human sasp
+1089,Il1a,human sasp
+1090,Birc3,human sasp
+1091,Phactr1,human sasp
+1092,Dusp5,human sasp
+1093,Hdgf,human sasp
+1094,Nfkb2,human sasp
+1095,Tfrc,human sasp
+1096,Ptpru,human sasp
+1097,Itpkc,human sasp
+1098,Pnpla8,human sasp
+1099,Pdgfra,human sasp
+1100,Paqr3,human sasp
+1101,Tmem132a,human sasp
+1102,Mycl,human sasp
+1103,C1rl,human sasp
+1104,Il23a,human sasp
+1105,Gramd3,human sasp
+1106,Tle3,human sasp
+1107,Casp1,human sasp
+1108,Hpse,human sasp
+1109,Slc16a1,human sasp
+1110,Ogfrl1,human sasp
+1111,Ltb,human sasp
+1112,Slc2a6,human sasp
+1113,Foxf1,human sasp
+1114,Ttc39a,human sasp
+1115,Clec2d,human sasp
+1116,E130311K13Rik,human sasp
+1117,Pdzd2,human sasp
+1118,Plin5,human sasp
+1119,Agtrap,human sasp
+1120,Serpinb8,human sasp
+1121,Nr3c1,human sasp
+1122,Adap1,human sasp
+1123,Pfkfb3,human sasp
+1124,Srebf1,human sasp
+1125,Rhbdf2,human sasp
+1126,Abtb2,human sasp
+1127,Pla2g4c,human sasp
+1128,Cemip,human sasp
+1129,Cyp1a2,human sasp
+1130,Sh3bp1,human sasp
+1131,Il1r1,human sasp
+1132,Klrd1,human sasp
+1133,Vegfa,human sasp
+1134,Il31ra,human sasp
+1135,Gemin8,human sasp
+1136,Il11,human sasp
+1137,Basp1,human sasp
+1138,Mpzl1,human sasp
+1139,Lgmn,human sasp
+1140,Arg2,human sasp
+1141,Ackr3,human sasp
+1142,Ncf4,human sasp
+1143,Gxylt2,human sasp
+1144,Slc9a7,human sasp
+1145,Raph1,human sasp
+1146,Aoah,human sasp
+1147,Il34,human sasp
+1148,Lamp3,human sasp
+1149,Strip2,human sasp
+1150,Timp1,human sasp
+1151,Pdgfrl,human sasp
+1152,Dclk3,human sasp
+1153,2210016F16Rik,human sasp
+1154,Id2,human sasp
+1155,Tifa,human sasp
+1156,Il18bp,human sasp
+1157,Nav3,human sasp
+1158,Dok3,human sasp
+1159,Epha6,human sasp
+1160,Abcg1,human sasp
+1161,Pdxk,human sasp
+1162,Iqsec3,human sasp
+1163,Tmem165,human sasp
+1164,Btg3,human sasp
+1165,Cldn5,human sasp
+1166,Csf2rb,human sasp
+1167,Kifc3,human sasp
+1168,Tfap2a,human sasp
+1169,Pdlim3,human sasp
+1170,B3gnt5,human sasp
+1171,Col27a1,human sasp
+1172,Npc1,human sasp
+1173,Nab1,human sasp
+1174,Ckap4,human sasp
+1175,Plod2,human sasp
+1176,Scg5,human sasp
+1177,Col8a1,human sasp
+1178,Adamts1,human sasp
+1179,Palld,human sasp
+1180,Bdkrb2,human sasp
+1181,Bcl3,human sasp
+1182,Tnfsf9,human sasp
+1183,Itga8,human sasp
+1184,Dusp23,human sasp
+1185,Prdm8,human sasp
+1186,Gpr68,human sasp
+1187,Snai1,human sasp
+1188,Rapgef5,human sasp
+1189,Itpka,human sasp
+1190,Mrpl33,human sasp
+1191,Rapsn,human sasp
+1192,Rpgr,human sasp
+1193,Aox1,human sasp
+1194,Synj2,human sasp
+1195,Ereg,human sasp
+1196,Tnr,human sasp
+1197,Cdc42ep3,human sasp
+1198,Dner,human sasp
+1199,Desi1,human sasp
+1200,Slc39a6,human sasp
+1201,Grpel2,human sasp
+1202,Susd6,human sasp
+1203,C1qtnf1,human sasp
+1204,Rasgef1b,human sasp
+1205,Aco1,human sasp
+1206,Pcdh1,human sasp
+1207,Gdf15,human sasp
+1208,Mmp19,human sasp
+1209,Rgs2,human sasp
+1210,Papss2,human sasp
+1211,Gpr153,human sasp
+1212,Slc15a3,human sasp
+1213,Lrp4,human sasp
+1214,Larp6,human sasp
+1215,Tmem154,human sasp
+1216,Antxr2,human sasp
+1217,Lipg,human sasp
+1218,Vmp1,human sasp
+1219,Cbwd1,human sasp
+1220,Ampd3,human sasp
+1221,Prrx1,human sasp
+1222,Msx1,human sasp
+1223,Ets1,human sasp
+1224,Batf,human sasp
+1225,Grk5,human sasp
+1226,Psme2,human sasp
+1227,Igf2r,human sasp
+1228,Runx1,human sasp
+1229,Qsox2,human sasp
+1230,Ulbp1,human sasp
+1231,Sqor,human sasp
+1232,Spx,human sasp
+1233,Rnf19b,human sasp
+1234,Asphd1,human sasp
+1235,Mthfd2l,human sasp
+1236,Lamc2,human sasp
+1237,Kbtbd8,human sasp

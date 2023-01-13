@@ -1,0 +1,569 @@
+﻿Gene name;Cell type
+Bank1;B cells
+Bcl11a;B cells
+Bcl11b;B cells
+Cd19;B cells
+Cd22;B cells
+Cd37;B cells
+Cd79a;B cells
+Cd79b;B cells
+Ebf1;B cells
+Herpud1;B cells
+Igha;B cells
+Ighd;B cells
+Ighm;B cells
+Igkc;B cells
+Iglc2;B cells
+Iglc3;B cells
+Jchain;B cells
+Mef2c;B cells
+Mzb1;B cells
+Pax5;B cells
+Ralgps2;B cells
+Vpreb3;B cells
+Hfe;B cells
+Wdfy4;B cells
+Krt14;Cholangiocyte
+Krt19;Cholangiocyte
+Sptbn1¬†;Cholangiocyte
+Krt9;Cholangiocyte
+Krt7;Cholangiocyte
+Mki67;Cholangiocyte
+Sox9;Cholangiocyte
+Sox4;Cholangiocyte
+Hnf1b;Cholangiocyte
+Spp1;Cholangiocyte
+Erbb2;Cholangiocyte
+Erbb3;Cholangiocyte
+Fgfr2;Cholangiocyte
+Fgfr3;Cholangiocyte
+Sorl1;Cholangiocyte
+Wwc1;Cholangiocyte
+Cftr;Cholangiocyte
+Pkd2;Cholangiocyte
+Pkhd1l1;Cholangiocyte
+Lrp2;Cholangiocyte
+Cdh11;Cholangiocyte
+Igfbp5;Cholangiocyte
+Wt1;Cholangiocyte
+Igfbp6;Cholangiocyte
+Wnt2b;Cholangiocyte
+Bmp4;Cholangiocyte
+Sulf2;Cholangiocyte
+Gas1;Cholangiocyte
+Gpc3;Cholangiocyte
+Vim;Cholangiocyte
+Fgf1;Cholangiocyte
+Onecut1;Cholangiocyte
+Klra2;Cholangiocyte
+Ccl5;Cholangiocyte
+Pla2g7;Cholangiocyte
+Clec12a;Cholangiocyte
+Itgal;Cholangiocyte
+Folr2;Cholangiocyte
+Cybb;Cholangiocyte
+Cd38;Cholangiocyte
+Epcam;Cholangiocyte
+Cd117;Cholangiocyte
+Cd133;Cholangiocyte
+Dlk1;Cholangiocyte
+Slc22a3;Cholangiocyte
+Pou5f1;Cholangiocyte
+Cd34;Cholangiocyte
+Tpm2;Cholangiocyte
+Ace2;Cholangiocyte
+H2-Aa;Dendritic cell
+H2-Eb1;Dendritic cell
+H2-Ab1;Dendritic cell
+Tyrobp;Dendritic cell
+Pld4;Dendritic cell
+Cd74;Dendritic cell
+Siglech;Dendritic cell
+Cd209a;Dendritic cell
+Ckb;Dendritic cell
+Clec10a;Dendritic cell
+H2-DMa;Dendritic cell
+H2-DMb1;Dendritic cell
+H2afy;Dendritic cell
+Ifi30;Dendritic cell
+Plbd1;Dendritic cell
+Selplg;Dendritic cell
+Cd80;Dendritic cell
+Cd86;Dendritic cell
+Slc40a1;Dendritic cell
+Sepp1;Dendritic cell
+Cd163;Dendritic cell
+Aif1;Dendritic cell
+Itgax;Dendritic cell
+Itgae;Dendritic cell
+Itgam;Dendritic cell
+Cd34;Dendritic cell
+Adam19;Dendritic cell
+Ap1s3;Dendritic cell
+Btla;Dendritic cell
+lt3;Dendritic cell
+Sept6;Dendritic cell
+Slamf7;Dendritic cell
+Anpep;Dendritic cell
+Bri3bp;Dendritic cell
+Cbfa2t3;Dendritic cell
+Dpp4;Dendritic cell
+Fgl2;Dendritic cell
+Haao;Dendritic cell
+Jak2;Dendritic cell
+Pstpip1;Dendritic cell
+Runx3;Dendritic cell
+Tbc1d8;Dendritic cell
+Adgrf5;Endothelial
+Aqp1;Endothelial
+Bfnl9;Endothelial
+Bmp2;Endothelial
+Bng;Endothelial
+Calm2;Endothelial
+Col4a1;Endothelial
+Col4a2;Endothelial
+Cdkn1a;Endothelial
+Cldn5;Endothelial
+Clec14a;Endothelial
+Clec4g;Endothelial
+Col4a1;Endothelial
+Dab2;Endothelial
+Dnase1l3;Endothelial
+Egfl7;Endothelial
+Ehd3;Endothelial
+Eng;Endothelial
+Epas1;Endothelial
+F8;Endothelial
+Fabp4;Endothelial
+Fcgr2b;Endothelial
+Flt1;Endothelial
+Gja4;Endothelial
+Gng11;Endothelial
+Gpihbp1;Endothelial
+Gpr182;Endothelial
+Igfbp4;Endothelial
+Igfbp7;Endothelial
+Il6st;Endothelial
+Kdr;Endothelial
+Lifr;Endothelial
+Ltbp4;Endothelial
+Maf;Endothelial
+Meis2;Endothelial
+Mylip;Endothelial
+Nrp1;Endothelial
+Oit3;Endothelial
+Pbx1;Endothelial
+Plpp3;Endothelial
+Plxnd1;Endothelial
+Ptn;Endothelial
+Ptprb;Endothelial
+Sema6a;Endothelial
+Sox17;Endothelial
+Sparc;Endothelial
+Stab2;Endothelial
+Timp3;Endothelial
+Tspan7;Endothelial
+Vwf;Endothelial
+Eaf2;Endothelial
+Icam1;Hepatoblast
+Epcam;Hepatoblast
+Cdh1;Hepatoblast
+Onecut3;Hepatoblast
+Afp;Hepatoblast
+Agt;Hepatoblast
+Fgg;Hepatoblast
+Gsta1;Hepatoblast
+Id3;Hepatoblast
+Lin28b;Hepatoblast
+Etv5;Hepatoblast
+Lgr5;Hepatoblast
+Tbx3;Hepatoblast
+Foxm1;Hepatoblast
+Kit;Hepatoblast
+Onecut1;Hepatoblast
+Onecut2;Hepatoblast
+Notch2;Hepatoblast
+Hnf1b;Hepatoblast
+Hes1;Hepatoblast
+Foxa2;Hepatoblast
+Foxa3;Hepatoblast
+Hhex;Hepatoblast
+Sall4;Hepatoblast
+Hnf4a;Hepatoblast
+Alb;Hepatoblast
+Krt19;Hepatoblast
+Epcam;Hepatoblast
+Tacstd2;Hepatoblast
+Anpep;Hepatoblast
+Itga6;Hepatoblast
+Cd133;Hepatoblast
+Thy1;Hepatoblast
+Fgf7;Hepatoblast
+Sox9;Hepatoblast
+Krt18;Hepatoblast
+Cebpa;Hepatoblast
+Mki67;Hepatoblast
+Krt7;Hepatoblast
+Tmem45b;Hepatoblast
+Igdcc4;Hepatoblast
+Ptprcap;Hepatoblast
+Atxn1;Hepatoblast
+Fosl1;Hepatocyte
+Eppk1;Hepatocyte
+Ucp2;Hepatocyte
+Gck;Hepatocyte
+Lrp5;Hepatocyte
+Slc10a1;Hepatocyte
+Nos2;Hepatocyte
+Atp7b;Hepatocyte
+Gjb2;Hepatocyte
+Fgfr4;Hepatocyte
+Prox1;Hepatocyte
+Crp;Hepatocyte
+Slc2a2;Hepatocyte
+Tfr2;Hepatocyte
+Kif13b;Hepatocyte
+Lipc;Hepatocyte
+Vdr;Hepatocyte
+Asgr1;Hepatocyte
+Arg1;Hepatocyte
+G6pc;Hepatocyte
+Otc;Hepatocyte
+Ugt1a1;Hepatocyte
+Zhx2;Hepatocyte
+Foxa1;Hepatocyte
+Cyp7a1;Hepatocyte
+Cyp2e1;Hepatocyte
+Cyp1a2;Hepatocyte
+Ahr;Hepatocyte
+Cyp1a1;Hepatocyte
+Nr1i3;Hepatocyte
+Cps1;Hepatocyte
+Gls2;Hepatocyte
+Pck1;Hepatocyte
+Fcna;Hepatocyte
+Tat;Hepatocyte
+Prrg4;Hepatocyte
+Sult1a1;Hepatocyte
+Apoh;Hepatocyte
+Ctnnb1;Hepatocyte
+Abcc3;Hepatocyte
+Fgb;Hepatocyte
+Aqp3;Hepatocyte
+Plscr1;Hepatocyte
+Fga;Hepatocyte
+Apob;Hepatocyte
+Ang;Hepatocyte
+Anxa13;Hepatocyte
+Sat2;Hepatocyte
+Sfrp5;Hepatocyte
+A1cf;Hepatocyte
+Apoa1;Hepatocyte
+Bnip3;Hepatocyte
+Fgl1;Hepatocyte
+Pah;Hepatocyte
+Serpina6;Hepatocyte
+Apoa2;Hepatocyte
+Azgp1;Hepatocyte
+Apoc3;Hepatocyte
+Defb1;Hepatocyte
+Tm4sf4;Hepatocyte
+Gc;Hepatocyte
+Ambp;Hepatocyte
+Orm1;Hepatocyte
+Serpina1c;Hepatocyte
+Gulo;Hepatocyte
+Cyp2f2;Hepatocyte
+Hal;Hepatocyte
+Ass1;Hepatocyte
+Hmgcs1;Hepatocyte
+Acss2;Hepatocyte
+Tm7sf2;Hepatocyte
+Sec16b;Hepatocyte
+Slbp;Hepatocyte
+Rnd3;Hepatocyte
+Bche;Hepatocyte
+Ghr;Hepatocyte
+Aldh6a1;Hepatocyte
+Masp2;Hepatocyte
+Hamp;Hepatocyte
+Acly;Hepatocyte
+Asl;Hepatocyte
+Mup3;Hepatocyte
+Tmem97;Hepatocyte
+Cp;Hepatocyte
+Acat2;Hepatocyte
+Tm4sf5;Hepatocyte
+Msmo1;Hepatocyte
+Lepr;Hepatocyte
+Rcan1;Hepatocyte
+Ar;Hepatocyte
+Plin1;Hepatocyte
+Rpp25l;Hepatocyte
+Hsd11b1;Hepatocyte
+Apom;Hepatocyte
+Tkfc;Hepatocyte
+G0s2;Hepatocyte
+Pon3;Hepatocyte
+Ttc36;Hepatocyte
+Golt1a;Hepatocyte
+Fst;Hepatocyte
+Mcc;Hepatocyte
+Aqp9;Hepatocyte
+Gsta2;Hepatocyte
+Nnt;Hepatocyte
+Saa4;Hepatocyte
+Mrps18c;Hepatocyte
+Ociad1;Hepatocyte
+Apoa5;Hepatocyte
+Entpd5;Hepatocyte
+C4b;Hepatocyte
+Eid2;Hepatocyte
+Atic;Hepatocyte
+Serpinh1;Hepatocyte
+Samd5;Hepatocyte
+Grb14;Hepatocyte
+Abcd3;Hepatocyte
+Rhob;Hepatocyte
+Epb41l4b;Hepatocyte
+Gpat4;Hepatocyte
+Sdc2;Hepatocyte
+Phlda1;Hepatocyte
+Wtap;Hepatocyte
+Acadm;Hepatocyte
+Acaa1b;Hepatocyte
+Akr1c6;Hepatocyte
+Aldob;Hepatocyte
+Apoc1;Hepatocyte
+Apoc4;Hepatocyte
+Bhmt;Hepatocyte
+Car3;Hepatocyte
+Cdo1;Hepatocyte
+Fabp1;Hepatocyte
+Gnmt;Hepatocyte
+Gsta3;Hepatocyte
+Gstm1;Hepatocyte
+Hpx;Hepatocyte
+Mgst1;Hepatocyte
+Mup20;Hepatocyte
+Phyh;Hepatocyte
+Rbp4;Hepatocyte
+Rgn;Hepatocyte
+Scd1;Hepatocyte
+Scp2;Hepatocyte
+Serpina1a;Hepatocyte
+Serpina1e;Hepatocyte
+Wfdc21;Hepatocyte
+Mlxipl;Hepatocyte
+Atf5;Hepatocyte
+Nr1h4;Hepatocyte
+Rxra;Hepatocyte
+Nr1h3;Hepatocyte
+Cebpb;Hepatocyte
+Gata6;Hepatocyte
+Ppara;Hepatocyte
+Nr2f2;Hepatocyte
+Nr2f1;Hepatocyte
+Nr5a2;Hepatocyte
+Nr1i2;Hepatocyte
+Nr0b2;Hepatocyte
+Klf15;Hepatocyte
+Hnf1a;Hepatocyte
+Ppard;Hepatocyte
+Pparg;Hepatocyte
+Nr1d1;Hepatocyte
+Nr1d2;Hepatocyte
+Rora;Hepatocyte
+Rorb;Hepatocyte
+Rorc;Hepatocyte
+Nr1h5;Hepatocyte
+Nr1h2;Hepatocyte
+Rxrb;Hepatocyte
+Rxrg;Hepatocyte
+Nr3c1;Hepatocyte
+Ppargc1a¬†;Hepatocyte
+Ncoa1;Hepatocyte
+Crebbp;Hepatocyte
+Nr5a1;Hepatocyte
+Igf1;Hepatocyte
+Igf2;Hepatocyte
+Igfbp3;Hepatocyte
+Cyp3a11;Hepatocyte
+Cyp27a1;Hepatocyte
+Cyp39a1;Hepatocyte
+Cyp19a1;Hepatocyte
+Cyp3a13;Hepatocyte
+Cyp2d10;Hepatocyte
+Cyp2d26;Hepatocyte
+Ugt1a2;Hepatocyte
+Ugt2b36;Hepatocyte
+Ugt2a1;Hepatocyte
+Cpt1a;Hepatocyte
+Slc1a2;Hepatocyte
+Rrm2¬†;Hepatocyte
+Pfkfb2;Hepatocyte
+Ihh;Hepatocyte
+Lect2;Hepatocyte
+Apc;Hepatocyte
+Acot1;Hepatocyte
+Fgf21;Hepatocyte
+Hnf4a;Hepatocyte
+Glul;Hepatocyte
+Serpina16;Hepatocyte
+Ttr;Hepatocyte
+Trf;Hepatocyte
+Adgre1;Kupffer and Macrophage
+Adgre4;Kupffer and Macrophage
+Ccl6;Kupffer and Macrophage
+Ccr5;Kupffer and Macrophage
+Cd14;Kupffer and Macrophage
+Cd163;Kupffer and Macrophage
+Cd5l;Kupffer and Macrophage
+Cd68;Kupffer and Macrophage
+Cd86;Kupffer and Macrophage
+Cdh1;Kupffer and Macrophage
+Cd74;Kupffer and Macrophage
+Cfp;Kupffer and Macrophage
+Chit1;Kupffer and Macrophage
+Clec4e;Kupffer and Macrophage
+Clec4f;Kupffer and Macrophage
+Creg1;Kupffer and Macrophage
+Csf1r;Kupffer and Macrophage
+Fcer1g;Kupffer and Macrophage
+Itgam;Kupffer and Macrophage
+Lgals3;Kupffer and Macrophage
+Lpl;Kupffer and Macrophage
+Lipa;Kupffer and Macrophage
+Lyz2;Kupffer and Macrophage
+Marco;Kupffer and Macrophage
+Mnda;Kupffer and Macrophage
+Mpeg1;Kupffer and Macrophage
+Ms4a6c;Kupffer and Macrophage
+Msr1;Kupffer and Macrophage
+Pltp;Kupffer and Macrophage
+Prok2;Kupffer and Macrophage
+Sat1;Kupffer and Macrophage
+Sdc3;Kupffer and Macrophage
+Siglec1;Kupffer and Macrophage
+Slc11a1;Kupffer and Macrophage
+Slc31a2;Kupffer and Macrophage
+Slc15a3;Kupffer and Macrophage
+Timd4;Kupffer and Macrophage
+Tlr4;Kupffer and Macrophage
+Trem2;Kupffer and Macrophage
+Ttyh3;Kupffer and Macrophage
+Vcam1;Kupffer and Macrophage
+Vsig4;Kupffer and Macrophage
+Wfdc17;Kupffer and Macrophage
+H2-DMb2;Kupffer and Macrophage
+H2-Oa;Kupffer and Macrophage
+H2-Ob;Kupffer and Macrophage
+Mndal;Kupffer and Macrophage
+Mrc1;Kupffer and Macrophage
+Bcl2;Lymphocyte
+Batf;Lymphocyte
+Ccr5;Lymphocyte
+Cd28;Lymphocyte
+Cd3d;Lymphocyte
+Cd3e;Lymphocyte
+Cd3g;Lymphocyte
+Cd52;Lymphocyte
+Cd7;Lymphocyte
+Cd74;Lymphocyte
+Cd8a;Lymphocyte
+Creld2;Lymphocyte
+Crebbp;Lymphocyte
+Ctla4;Lymphocyte
+Ctsw;Lymphocyte
+Cux1;Lymphocyte
+Cxcr4;Lymphocyte
+Fam46c;Lymphocyte
+Fcer2a;Lymphocyte
+Fcmr;Lymphocyte
+Fcrla;Lymphocyte
+Foxp1;Lymphocyte
+Gata3;Lymphocyte
+Gimap3;Lymphocyte
+Gimap7;Lymphocyte
+Glipr1;Lymphocyte
+Gzmb;Lymphocyte
+H13;Lymphocyte
+Ifngr1;Lymphocyte
+Ifnar2;Lymphocyte
+Ifnar1;Lymphocyte
+Il21r;Lymphocyte
+Il2rb;Lymphocyte
+Il7r;Lymphocyte
+Itgal;Lymphocyte
+Irf8;Lymphocyte
+Lat;Lymphocyte
+Lef1;Lymphocyte
+Lck;Lymphocyte
+Ltb;Lymphocyte
+Ly6d;Lymphocyte
+Ms4a1;Lymphocyte
+Ms4a4b;Lymphocyte
+Mx1;Lymphocyte
+Plac8;Lymphocyte
+Pou2f2;Lymphocyte
+Pou6f1;Lymphocyte
+Ptpn22;Lymphocyte
+Rora;Lymphocyte
+Sec11c;Lymphocyte
+Sec61b;Lymphocyte
+Sell;Lymphocyte
+Skap1;Lymphocyte
+Slpi;Lymphocyte
+Tbx21;Lymphocyte
+Trbc2;Lymphocyte
+Tspan13;Lymphocyte
+Txk;Lymphocyte
+Txndc11;Lymphocyte
+Txndc5;Lymphocyte
+Xcl1;Lymphocyte
+Zbtb7b;Lymphocyte
+Gzma;Lymphocyte
+Crtam;Lymphocyte
+Zap70;Lymphocyte
+Cd226;Lymphocyte
+Cd2;Lymphocyte
+Cd28;Lymphocyte
+Icos;Lymphocyte
+Cd27;Lymphocyte
+Tnfrsf8;Lymphocyte
+Tnfsf5;Lymphocyte
+Tnfrsf4;Lymphocyte
+Ly86;Lymphocyte
+Lgmn;Lymphocyte
+Clec1b;Natural killer
+Clec1b;Natural killer
+Itga1;Natural killer
+Klrb1c;Natural killer
+Klrk1;Natural killer
+Nkg7;Natural killer
+Syk;Natural killer
+C3;Neutrophil
+Csf3r;Neutrophil
+Hp;Neutrophil
+Retnig;Neutrophil
+Slpi;Neutrophil
+Anxa1;Neutrophil
+Edil3;Neutrophil
+Psen1;Neutrophil
+Ankrd22;Neutrophil
+Arg2;Neutrophil
+Ceacam10;Neutrophil
+Clec5a;Neutrophil
+Anxa3;Neutrophil
+Mgam;Neutrophil
+Mrgpra2b;Neutrophil
+Ppp1r3d;Neutrophil
+Rnf11;Neutrophil
+Cd177;Neutrophil
+Cd300a;Neutrophil
+F2rl1;Neutrophil
+Fcer1g;Neutrophil
+Grn;Neutrophil
+Prkcd;Neutrophil
+Ptafr;Neutrophil
+Syk;Neutrophil

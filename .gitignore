@@ -5,8 +5,10 @@ notebooks/*csv
 notebooks/*xlsx
 figures/*pdf
 figures/*png
+tables/*json
 tables/*csv
-tables/*xls
 tables/*xlsx
+tables/.ipynb_checkpoints/*
 notebooks/.ipynb_checkpoints/*
+notebooks/dep*
 code/*gtf

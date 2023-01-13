@@ -1,0 +1,120 @@
+﻿Gene;Annotation
+Aadac;Lipolysis
+Abcd11;Lipolysis
+Abhd2;Lipolysis
+Aacaa1a;Lipolysis
+Acaa2;Lipolysis
+Acacb;Lipolysis
+Acot2;Lipolysis
+Acox1;Lipolysis
+Adipoq;Lipolysis
+Aldob;Lipolysis
+Apoa1;Lipolysis
+Apoa2;Lipolysis
+Apob;Lipolysis
+Apoc3;Lipolysis
+Apoe;Lipolysis
+Apom;Lipolysis
+Ces1a;Lipolysis
+Cyp1a2;Lipolysis
+Cyp24a1;Lipolysis
+Enox1;Lipolysis
+Fabp1;Lipolysis
+Gpd1;Lipolysis
+Hao1;Lipolysis
+Itih3;Lipolysis
+Mlxipl;Lipolysis
+Mup11;Lipolysis
+Trf;Lipolysis
+Saa1;Lipolysis
+Ttr;Lipolysis
+Ddb1;Gluconeogenesis
+Glyctk;Gluconeogenesis
+Foxo1;Gluconeogenesis
+Foxo3;Gluconeogenesis
+Gck;Gluconeogenesis
+Gpt;Gluconeogenesis
+Hif1a;Gluconeogenesis
+Kat2a;Gluconeogenesis
+Kat2b;Gluconeogenesis
+Ppara;Gluconeogenesis
+Ppp4r3a;Gluconeogenesis
+Pnpla3;Gluconeogenesis
+Sirt1;Gluconeogenesis
+Supt20;Gluconeogenesis
+Pck1;Gluconeogenesis
+G6pc;Gluconeogenesis
+G6pc3;Gluconeogenesis
+Glul;Gluconeogenesis
+Eno1;Gluconeogenesis
+Eno3;Gluconeogenesis
+Aldob;Gluconeogenesis
+Fbp1;Gluconeogenesis
+Gpi;Gluconeogenesis
+Slc1a2;Gluconeogenesis
+Abcg5;Gluconeogenesis
+Nr4a1;Gluconeogenesis
+Got1;Gluconeogenesis
+Got2;Gluconeogenesis
+Slc25a10;Gluconeogenesis
+Insig1;Gluconeogenesis
+Fmo1;Drug metabolism
+Cyp1a1;Drug metabolism
+Cyp2e1;Drug metabolism
+Cyp1a2;Drug metabolism
+Aldh3b1;Drug metabolism
+Cyp2a6;Drug metabolism
+Cyp4f12;Drug metabolism
+Cyp3a11;Drug metabolism
+Cyp2b6;Drug metabolism
+Gstm2;Drug metabolism
+Papss2;Drug metabolism
+Aldh3a2;Drug metabolism
+Aldh1a1;Drug metabolism
+Adh4;Drug metabolism
+Oatp1a4;Drug metabolism
+Sult5a1;Drug metabolism
+Ugt1a9;Drug metabolism
+Ugt1a6;Drug metabolism
+Mrp4;Drug metabolism
+Sult2b1;Drug metabolism
+Sat1;Drug metabolism
+Gnmt;Drug metabolism
+Aqp1;Drug metabolism
+Aqp7;Drug metabolism
+Mgst1;Drug metabolism
+Slc15a1;Drug metabolism
+Hnf4a;Master regulators
+Hnf1a;Master regulators
+Stat3;Master regulators
+Satb1;Master regulators
+Id2;Master regulators
+Cebpa;Master regulators
+Nr1h2;Master regulators
+Ppara;Master regulators
+Nr1l2;Master regulators
+Nr1h3;Master regulators
+Tcf4;Master regulators
+Ppargc1a;Master regulators
+Stat5b;Master regulators
+Rora;Master regulators
+Mlxipl;Master regulators
+Srebf1;Master regulators
+Cebpb;Master regulators
+Ctcf;Master regulators
+Vegfa;Growth
+Nfkb1;Senescence
+Wnt;Growth
+Elovl5;Growth
+Tcf4;Growth
+Ctnnb1;Growth
+Fgf4;Growth
+Pdgf;Growth
+Grb2;Growth
+Gab1;Growth
+Erk;Growth
+Alb;Growth
+Glb1;Senescence
+Cdkn2a;Senescence
+Cdkn1a;Senescence
+TP53;Senescence
