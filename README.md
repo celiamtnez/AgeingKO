@@ -18,5 +18,7 @@ This pipeline is inspired by the scanpy methods and has been fully developed by 
 ## Resources 
 
 [1] Yin K., Büttner M., at al. Polyploidisation pleiotropically buffers ageing in hepatocytes. Journal of Hepatology, Vol., No., p, 2024; https://doi.
+
 [2] Yin K., Büttner M., Deligiannis IK., Strzelecki M., Zhang L., Talavera-López C., et al. Hepatocyte polyploidization during ageing protects against transcriptional dysregulation and chronic liver disease. ArrayExpress/Biostudies, E-MTAB-12738 2023; https://www.ebi.ac.uk/biostudies/studies/E-MTAB-12738
+
 [3] Deligiannis IK., Martinez-Jimenez C. Single-nucleus RNA-seq2 of liver tissue of 3 months old mice to investigate crosstalk between ploidy and zonation. ArrayExpress/BioStudies, E-MTAB-9333 2021; https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-9333
